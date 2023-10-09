@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230192212218",
+    "project_id": "siap-apps",
+    "storage_bucket": "siap-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230192212218:android:5e8a3426f797212ea38143",
+        "android_client_info": {
+          "package_name": "com.example.siap_app_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkf45q0rLV4mx3_GFipHyR3T3W1UQJIwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
